@@ -28,4 +28,5 @@
         the music/sound, pre-glitching, originated with Nick's
         https://taper.badquar.to/4/straight_strategies.html
 
-(◕ ◞ ◕ This repo was created using https://netnet.studio so that a BrowserFest entry could be provided.)
+        the existence of this GitHub repository should not indicate to anyone
+        that we are maintaining this AT ALL! feel free to fork, of course...
